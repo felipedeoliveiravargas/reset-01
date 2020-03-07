@@ -3,8 +3,8 @@ public class App {
     public static void main(String []args){
         System.out.println("Hello World");
         System.out.println("Hello World\noiii");
-        System.out.println("Sem criatividade");
-        System.out.println("Para mensagens");
+        System.out.println("Hoje é Sábado");
+        System.out.println("Dia de estudar");
 
     }
 }

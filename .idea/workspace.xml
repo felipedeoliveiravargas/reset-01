@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6958dfac-b19d-4dc5-bf4d-25b22e61bf6f" name="Default Changelist" comment="" />
+    <list default="true" id="dc60732c-f556-4994-8d1d-6afaed6e3453" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Ynmh85at9BeEYfHDEKHxuL3UTR" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1Yo09OIXoVgVf1JmjVrGCXgXL53" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="Aula-01" />
+      <module name="reset-01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -44,38 +36,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6958dfac-b19d-4dc5-bf4d-25b22e61bf6f" name="Default Changelist" comment="" />
-      <created>1583586848655</created>
+      <changelist id="dc60732c-f556-4994-8d1d-6afaed6e3453" name="Default Changelist" comment="" />
+      <created>1583593488320</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583586848655</updated>
-      <workItem from="1583586857455" duration="1715000" />
+      <updated>1583593488320</updated>
+      <workItem from="1583593494160" duration="1000" />
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583587996702">
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583593508768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583587996702" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583587996702">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583587996702" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583587996702">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583587996702" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583587996702">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583587996702" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1583587978384">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583587978384" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583593508768" />
   </component>
 </project>
