@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc60732c-f556-4994-8d1d-6afaed6e3453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comparador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio03/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio03/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yo09OIXoVgVf1JmjVrGCXgXL53" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +36,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio03.App" />
+      <module name="reset-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="reset-01" />
@@ -44,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -58,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583593488320</updated>
-      <workItem from="1583593494160" duration="5474000" />
+      <workItem from="1583593494160" duration="11860000" />
+      <workItem from="1583620738937" duration="602000" />
     </task>
     <servers />
   </component>
@@ -66,25 +83,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583608937069">
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583610115089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583608937069" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583608937069">
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583610115089" />
+    <state x="322" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1583610020845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583608937069" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583608937069">
+    <state x="322" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583610020845" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583615575968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583608937069" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583608937069">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583615575968" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583615575968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583608937069" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583593508768">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583615575968" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583615575968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583593508768" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583615575968" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583615575968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583615575968" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583620742081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583620742081" />
   </component>
 </project>
