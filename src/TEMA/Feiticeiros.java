@@ -5,16 +5,18 @@ public class Feiticeiros {
     double vida;
     double ataque;
     double defesa;
-    string Arma;
     double mana;
 
-    public Feiticeiros( string nome, double vida, double ataque, double defesa, string arma, double mana) {
+    public Feiticeiros( string nome, double vida, double ataque, double defesa, double mana) {
         this.nome = nome;
         this.vida = vida;
         this.ataque = ataque;
         this.defesa = defesa;
-        this.Arma = arma;
         this.mana = mana;
+        Magia feiticeiros;
+    }
+    double ataque(double ataque, Magia feiticeiros) {
+        return feiticeiros.poderDeMana * ataque;
     }
 
 }

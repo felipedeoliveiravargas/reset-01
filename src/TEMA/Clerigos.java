@@ -5,15 +5,19 @@ public class Clerigos {
     double vida;
     double ataque;
     double defesa;
-    string Arma;
     double fe;
 
-    public Clerigos( string nome, double vida, double ataque, double defesa, string arma, double fe) {
+
+
+    public Clerigos( string nome, double vida, double ataque, double defesa,  double fe) {
         this.nome = nome;
         this.vida = vida;
         this.ataque = ataque;
         this.defesa = defesa;
-        this.Arma = arma;
         this.fe = fe;
+        PoderDivino clerigos;
+    }
+    double ataque(double ataque, PoderDivino clerigos) {
+        return clerigos.intensidadeDeFe * ataque;
     }
 }

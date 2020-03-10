@@ -5,13 +5,16 @@ public class Barbaros {
     double vida;
     double ataque;
     double defesa;
-    string Arma;
 
-    public Barbaros( string nome, double vida, double ataque, double defesa, string arma) {
+
+    public Barbaros( string nome, double vida, double ataque, double defesa) {
         this.nome = nome;
         this.vida = vida;
         this.ataque = ataque;
         this.defesa = defesa;
-        this.Arma = arma;
+        Arma barbaros;
+    }
+    double ataque(double ataque, Arma barbaros) {
+        return ataque * barbaros.poderDeAtaque;
     }
 }
