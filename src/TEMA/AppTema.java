@@ -29,6 +29,35 @@ public class AppTema {
         double danoAtaqueBarbaro1 = barbaro1.ataque(druidas1.nome, druidas1.defesa,arma2);
        druidas1.vida = druidas1.vida - danoAtaqueBarbaro1;
 
+        double danoAtaqueBarbaro2 = barbaro1.ataque(guerreiro1.nome, guerreiro1.defesa,arma2);
+        guerreiro1.vida = guerreiro1.vida - danoAtaqueBarbaro2;
+
+        double danoAtaqueMago1 = magos1.ataque(barbaro1.nome,barbaro1.defesa,magia2);
+        barbaro1.vida = barbaro1.vida - danoAtaqueMago1;
+
+        double danoAtaqueMago2 = magos1.ataque(clerigos1.nome,clerigos1.defesa,magia2);
+        clerigos1.vida = clerigos1.vida - danoAtaqueMago2;
+
+        double danoAtaqueBruxo1 = clerigos1.ataque(feiticeiros1.nome,feiticeiros1.defesa,poderDivino2);
+        feiticeiros1.vida = feiticeiros1.vida - danoAtaqueBruxo1;
+
+        double danoAtaqueBruxo2 = clerigos1.ataque(magos1.nome,magos1.defesa,poderDivino2);
+        magos1.vida = magos1.vida - danoAtaqueBruxo2;
+
+        double danoAtaqueMerlin1 = druidas1.ataque(clerigos1.nome,clerigos1.defesa,poderDivino1);
+        clerigos1.vida = clerigos1.vida - danoAtaqueMerlin1;
+
+        double danoAtaqueMerlin2 = druidas1.ataque(guerreiro1.nome,guerreiro1.defesa,poderDivino1);
+        guerreiro1.vida = guerreiro1.vida - danoAtaqueMerlin2;
+
+        double danoAtaqueSaci1 = feiticeiros1.ataque(druidas1.nome,druidas1.defesa,magia1);
+        druidas1.vida = druidas1.vida - danoAtaqueSaci1;
+
+        double danoAtaqueSaci2 = feiticeiros1.ataque(feiticeiros1.nome,feiticeiros1.defesa,magia1);
+        feiticeiros1.vida = feiticeiros1.vida - danoAtaqueSaci2;
+
+
+
 
 
 
