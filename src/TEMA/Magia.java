@@ -1,13 +1,13 @@
 package TEMA;
 
 public class Magia {
-    string nome;
+    String nome;
     double poderDeMana;
     double custoDeMana;
 
-    public Magia (string nome, double poderDeMana, double custoDeMana) {
+    public Magia (String nome, double poderDeMana, double custoDeMana) {
         this.nome = nome;
-        this.poderDeMana = poderdeMana;
+        this.poderDeMana = poderDeMana;
         this.custoDeMana = custoDeMana ;
 
 

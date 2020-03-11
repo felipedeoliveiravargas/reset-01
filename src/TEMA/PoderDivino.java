@@ -1,12 +1,13 @@
 package TEMA;
 
 public class PoderDivino {
-    string nome;
+    String nome;
     double intensidadeDeFe;
     double custoDeFe;
 
-    public PoderDivino (string nome, double intensidadeDeFe, double custoDeFe) {
+    public PoderDivino(String nome, double intensidadeDeFe, double custoDeFe) {
         this.nome = nome;
         this.intensidadeDeFe = intensidadeDeFe;
-        this.custoDeFe = custoDeFe ;
+        this.custoDeFe = custoDeFe;
+    }
 }
