@@ -23,7 +23,7 @@ public class Clerigos {
            double ataqueFinal = this.ataque * poderDivino.intensidadeDeFe;
            double dano = ataqueFinal - defesaAlvo;
            this.fe = this.fe - poderDivino.custoDeFe;
-           System.out.println(this.nome + " Atacou " + nomeAlvo + " com " + poderDivino.nome + " Causando " + dano + "de Dano");
+           System.out.println(this.nome + " Atacou " + nomeAlvo + " com " + poderDivino.nome + " Causando " + dano + " de Dano");
            return dano;
        }
 

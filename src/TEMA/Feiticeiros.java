@@ -21,7 +21,7 @@ public class Feiticeiros {
             double poderFinal = this.ataque * magia.poderDeMana;
             double dano = poderFinal - defesaAlvo;
             this.mana = this.mana - magia.custoDeMana;
-            System.out.println(this.nome + " Atacou " + nomeDoAlvo + " com " + magia.nome + " Causando " + dano + "de Dano");
+            System.out.println(this.nome + " Atacou " + nomeDoAlvo + " com " + magia.nome + " Causando " + dano + " de Dano");
             return dano;
         }
         System.out.println("Mana insuficiente");

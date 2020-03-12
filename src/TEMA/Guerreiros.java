@@ -17,7 +17,7 @@ public class Guerreiros {
     double ataque(String nomeAlvo, double defesaAlvo, Arma arma) {
         double poderFinal = this.ataque * arma.poderDeAtaque;
         double dano = poderFinal - defesaAlvo;
-        System.out.println(this.nome + " Atacou " + nomeAlvo + " com " + arma.nome + " Causando " + dano + "de Dano");
+        System.out.println(this.nome + " Atacou " + nomeAlvo + " com " + arma.nome + " Causando " + dano + " de Dano");
         return dano;
 
     }
