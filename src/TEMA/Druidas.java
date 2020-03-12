@@ -29,4 +29,10 @@ public class Druidas {
         System.out.println("Fé insuficiente");
         return 0;
     }
+    public void verificarVida() {
+        if (this.vida <= 0) {
+            System.out.println(this.nome + "Faleceu");
+        }
+
 }
+    }

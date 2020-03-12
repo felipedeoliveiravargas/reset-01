@@ -21,4 +21,9 @@ public class Guerreiros {
         return dano;
 
     }
+    public void verificarVida() {
+        if (this.vida <= 0) {
+            System.out.println(this.nome + "Faleceu");
+        }
+    }
 }
