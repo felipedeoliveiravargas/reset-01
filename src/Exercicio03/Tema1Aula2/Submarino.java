@@ -11,6 +11,17 @@ public class Submarino extends Veiculo {
         this.lotacaoMaxima = lotacaoMaxima;
         this.profundidadeMaxima = profundidadeMaxima;
 
+    }
 
+    @Override
+    public String toString() {
+        return "Submarino{" +
+                "combustivel='" + combustivel + '\'' +
+                ", lotacaoMaxima=" + lotacaoMaxima +
+                ", profundidadeMaxima=" + profundidadeMaxima +
+                ", nome='" + nome + '\'' +
+                ", terreno='" + terreno + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
     }
 }

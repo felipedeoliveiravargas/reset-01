@@ -10,7 +10,17 @@ public class Aviao extends Veiculo {
         this.combustivel = combustivel;
         this.lotacaoMaxima = lotacaoMaxima;
         this.alturaMaxima = alturaMaxima;
+    }
 
-
+    @Override
+    public String toString() {
+        return "Aviao{" +
+                "combustivel='" + combustivel + '\'' +
+                ", lotacaoMaxima=" + lotacaoMaxima +
+                ", alturaMaxima=" + alturaMaxima +
+                ", nome='" + nome + '\'' +
+                ", terreno='" + terreno + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
     }
 }

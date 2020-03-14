@@ -10,7 +10,14 @@ public class Navio extends Veiculo {
         this.lotacaoMaxima = lotacaoMaxima;
     }
 
-
-
-
+    @Override
+    public String toString() {
+        return "Navio{" +
+                "combustivel='" + combustivel + '\'' +
+                ", lotacaoMaxima=" + lotacaoMaxima +
+                ", nome='" + nome + '\'' +
+                ", terreno='" + terreno + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
+    }
 }

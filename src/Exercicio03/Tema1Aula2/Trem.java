@@ -13,5 +13,15 @@ public class Trem extends Veiculo {
 
     }
 
-
+    @Override
+    public String toString() {
+        return "Trem{" +
+                "combustivel='" + combustivel + '\'' +
+                ", lotacaoMaxima=" + lotacaoMaxima +
+                ", numeroDerodas=" + numeroDerodas +
+                ", nome='" + nome + '\'' +
+                ", terreno='" + terreno + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
+    }
 }

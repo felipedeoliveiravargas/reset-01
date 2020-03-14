@@ -11,4 +11,16 @@ public class Caminhao extends Veiculo {
         this.lotacaoMaxima = lotacaoMaxima;
         this.numeroDerodas = numeroDerodas;
     }
+
+    @Override
+    public String toString() {
+        return "Caminhao{" +
+                "combustivel='" + combustivel + '\'' +
+                ", lotacaoMaxima=" + lotacaoMaxima +
+                ", numeroDerodas=" + numeroDerodas +
+                ", nome='" + nome + '\'' +
+                ", terreno='" + terreno + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
+    }
 }
