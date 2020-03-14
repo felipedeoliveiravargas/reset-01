@@ -1,3 +1,5 @@
+package Aula01;
+
 public class Calculadora {
     int somar(int valorUm, int valorDois){
         return valorUm + valorDois;

@@ -1,6 +1,4 @@
-import sun.rmi.runtime.NewThreadAction;
-
-import java.util.concurrent.Callable;
+package Aula01;
 
 public class App {
 

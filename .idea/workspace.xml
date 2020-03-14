@@ -1,35 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc60732c-f556-4994-8d1d-6afaed6e3453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Aviao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Aviao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Caminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Navio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Navio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Submarino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Submarino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Trem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Trem.java" afterDir="false" />
+    <list default="true" id="89cfafa5-5c73-4ab9-b2fb-a0a70e694ff2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista de Classes.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reset-01/META-INF/reset-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Aviao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Bicicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Navio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Submarino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Trem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Tema1Aula2/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/AppTema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Barbaros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Clerigos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Druidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Feiticeiros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Guerreiros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Magia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/Magos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEMA/PoderDivino.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Yo09OIXoVgVf1JmjVrGCXgXL53" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1Z7yTdT8Y0wcGRaTbiUcKmDhcTE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,85 +56,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.App (2)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio03.App" />
-      <module name="reset-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercicio03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio03.Tema1Aula2.App" />
-      <module name="reset-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercicio03.Tema1Aula2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="reset-01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEMA.AppTema" />
-      <module name="reset-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TEMA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.AppTema" />
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula01" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc60732c-f556-4994-8d1d-6afaed6e3453" name="Default Changelist" comment="" />
-      <created>1583593488320</created>
+      <changelist id="89cfafa5-5c73-4ab9-b2fb-a0a70e694ff2" name="Default Changelist" comment="" />
+      <created>1584204437049</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583593488320</updated>
-      <workItem from="1583593494160" duration="11860000" />
-      <workItem from="1583620738937" duration="1049000" />
-      <workItem from="1583753660302" duration="13107000" />
-      <workItem from="1583841987279" duration="13964000" />
-      <workItem from="1583880317092" duration="7426000" />
-      <workItem from="1583926814586" duration="1915000" />
-      <workItem from="1583938159745" duration="5081000" />
-      <workItem from="1584012615665" duration="9642000" />
-      <workItem from="1584185608105" duration="8220000" />
+      <updated>1584204437049</updated>
+      <workItem from="1584204441973" duration="30000" />
     </task>
     <servers />
   </component>
@@ -123,47 +78,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583610115089">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584204469407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583610115089" />
-    <state x="322" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1583610020845">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584204469407" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584204442615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583610020845" />
-    <state x="630" y="48" width="461" height="680" key="#com.intellij.ide.util.MemberChooser" timestamp="1584195612729">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="630" y="48" width="461" height="680" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584195612729" />
-    <state width="1322" height="214" key="GridCell.Tab.0.bottom" timestamp="1584195972620">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1584029805760" />
-    <state width="1322" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1584028796777" />
-    <state width="1322" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584195972620" />
-    <state width="1322" height="214" key="GridCell.Tab.0.center" timestamp="1584195972619">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="214" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1584029805759" />
-    <state width="1322" height="214" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1584028796776" />
-    <state width="1322" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584195972619" />
-    <state width="1322" height="214" key="GridCell.Tab.0.left" timestamp="1584195972619">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="214" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1584029805759" />
-    <state width="1322" height="214" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1584028796776" />
-    <state width="1322" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584195972619" />
-    <state width="1322" height="214" key="GridCell.Tab.0.right" timestamp="1584195972619">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="214" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1584029805759" />
-    <state width="1322" height="214" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1584028796776" />
-    <state width="1322" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584195972619" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584185619476">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1584012618600" />
-    <state x="1744" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1583842111797" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584185619476" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584204442614" />
   </component>
 </project>
