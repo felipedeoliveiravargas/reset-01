@@ -95,7 +95,15 @@ public class App {
 
         for(AtributosPersonagem item : listaDePersonagens){
             System.out.println(item.nome);
+            if (item instanceof Guerreiros){
+                System.out.println(((Guerreiros) item).arma.nome); // mostrar troca de armas
+                ((Guerreiros) item).trocarArma(arma2);
+                System.out.println(((Guerreiros) item).arma.nome); // mostrar troca de armas
+            }
         }
+        CalculoDeDano batalha = new CalculoDeDano();
+        batalha.AtacarGrupo(listaDePersonagens.get(0), listaDePersonagens);
+        batalha.Atacar(listaDePersonagens.get(2), listaDePersonagens.get(1));
     }
 
 

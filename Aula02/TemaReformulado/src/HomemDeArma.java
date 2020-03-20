@@ -1,4 +1,4 @@
-public class HomemDeArma extends AtributosPersonagem {
+public abstract class HomemDeArma extends AtributosPersonagem {
     Arma arma;
 
     public HomemDeArma(String nome, double vida, double ataque, double defesa, Arma arma) {

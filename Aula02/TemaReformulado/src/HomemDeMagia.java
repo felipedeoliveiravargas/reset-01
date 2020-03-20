@@ -1,4 +1,4 @@
-public class HomemDeMagia extends AtributosPersonagem {
+public abstract class HomemDeMagia extends AtributosPersonagem {
     Magia magia;
     double mana;
 

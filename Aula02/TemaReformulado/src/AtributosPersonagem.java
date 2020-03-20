@@ -1,4 +1,4 @@
-public class AtributosPersonagem {
+public abstract class AtributosPersonagem {
     public AtributosPersonagem(String nome, double vida, double ataque, double defesa) {
         this.nome = nome;
         this.vida = vida;

@@ -1,4 +1,4 @@
-public class HomemDePoder extends AtributosPersonagem {
+public abstract class HomemDePoder extends AtributosPersonagem {
     PoderDivino poderDivino;
     double fe;
 
