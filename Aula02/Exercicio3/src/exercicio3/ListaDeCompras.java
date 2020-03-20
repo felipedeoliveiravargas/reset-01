@@ -17,7 +17,8 @@ public class ListaDeCompras {
         produtos.add(produto2);
         produtos.add(produto3);
 
-        for (Produto produto)
+        for (int  i=0; i<produtos.size();)
+        (Produto produto)
 
 
     }

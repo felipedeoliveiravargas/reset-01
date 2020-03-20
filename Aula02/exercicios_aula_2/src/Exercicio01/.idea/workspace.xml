@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e890b01e-d3e2-44c3-87b1-d883588d8be8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/AtributosPersonagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Barbaros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Clerigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Druidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Feiticeiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Guerreiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/Magos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TemaReformulado/src/PoderDivino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Aula01/reset-01" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Aula01/reset-01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Aula01/src/TEMA/AppTema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Aula01/src/TEMA/AppTema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercicio3/src/exercicio3/ListaDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercicio3/src/exercicio3/ListaDeCompras.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1ZGLqZ1QtcWW5VsGATSHjgeJXAo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Exercício02/src/Exercicio02" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e890b01e-d3e2-44c3-87b1-d883588d8be8" name="Default Changelist" comment="" />
+      <created>1584460675353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584460675353</updated>
+      <workItem from="1584460676623" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1829" y="138" key="FileChooserDialogImpl" timestamp="1584460714478">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1829" y="138" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@1366.0.1366.768" timestamp="1584460714478" />
+  </component>
+</project>
