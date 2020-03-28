@@ -1,10 +1,12 @@
 package gerenciador;
 
 import acervo.UsuarioAcervo;
+import dominio.Musica;
 import dominio.Usuario;
 
 import java.time.LocalDate;
 import java.time.Period;
+import java.util.ArrayList;
 import java.util.List;
 
 public class UsuarioGerenciador {
@@ -20,7 +22,7 @@ public class UsuarioGerenciador {
             }
         }
         if (usuario.getNome().isEmpty() || usuario.getEmail().isEmpty() || usuario.getTelefone().isEmpty() || usuario.getData() == null || usuario.getBio().isEmpty()) {
-            System.out.println("Campos obrigatórios não informado!");
+                System.out.println("Campos obrigatórios não informado!");
             return null;
     }
         if (calcularIdade(usuario.getData()) < 18) {
@@ -31,15 +33,23 @@ public class UsuarioGerenciador {
         return acervo.salvar(usuario);
     }
     public Usuario editar(int id, Usuario usuarioAtualizado) {
-
         Usuario usuarioParaEditar = procurar(id);
 
         if (usuarioParaEditar == null) {
             return null;
-        } else {
+        }
+        if(usuarioAtualizado.getNome().isEmpty() || usuarioAtualizado.getEmail().isEmpty() || usuarioAtualizado.getTelefone().isEmpty()|| usuarioAtualizado.getData()== null || usuarioAtualizado.getBio().isEmpty() ){
+            System.out.println("Campos obrigatórios não informado");
+            return null;
+        }
+        if (calcularIdade(usuarioAtualizado.getData()) < 18) {
+            System.out.println("Usuário deve ter idade igual ou maior a 18 anos!");
+            return null;
+        }
+         else {
             return acervo.editar(usuarioParaEditar, usuarioAtualizado);
         }
-    }
+        }
 
     public List<Usuario> listar() {
         return acervo.listar();
@@ -68,4 +78,15 @@ public class UsuarioGerenciador {
         double idade = anos.getYears();
         return idade;
     }
+   // private List<Musica> musicasCurtidas = new ArrayList<>();
+   // public void curtir(Musica musica){
+     //   musicasCurtidas.add(musica);
+   // }
+    ///public void compara(Usuario usuario) {
+       //int contador = 0;
+      // for (Musica musicaMinha : this.musicasCurtidas){
+       // for (Musica musicaDele : usuario.m)
+        //}
+    //}
+
 }

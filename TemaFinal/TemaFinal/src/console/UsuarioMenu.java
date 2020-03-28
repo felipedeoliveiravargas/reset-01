@@ -67,6 +67,9 @@ public class UsuarioMenu {
         System.out.println("Telefone");
         String telefone = scanner.nextLine();
 
+        System.out.println("Bio");
+        String bio = scanner.nextLine();
+
         System.out.println("Ano de nascimento: ");
         int ano = scanner.nextInt();
 
@@ -75,9 +78,6 @@ public class UsuarioMenu {
 
         System.out.println("Dia de nascimento: ");
         int dia = scanner.nextInt();
-
-        System.out.println("Bio");
-        String bio = scanner.nextLine();
 
         System.out.println("Digite sua Latitude");
         double latitude = scanner.nextDouble();
@@ -161,6 +161,9 @@ public class UsuarioMenu {
         System.out.println("Telefone: ");
         String telefone = scanner.nextLine();
 
+        System.out.println("Bio: ");
+        String bio = scanner.nextLine();
+
         System.out.println("Ano de nascimento: ");
         int ano = scanner.nextInt();
 
@@ -170,8 +173,6 @@ public class UsuarioMenu {
         System.out.println("Dia de nascimento: ");
         int dia = scanner.nextInt();
 
-        System.out.println("Bio: ");
-        String bio = scanner.nextLine();
 
         System.out.println("Digite sua latitude: ");
         double latitude = scanner.nextDouble();

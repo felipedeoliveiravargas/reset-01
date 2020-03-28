@@ -9,11 +9,11 @@ public class Usuario {
     private String telefone;
     private LocalDate data;
     private String bio;
-    private double latitude;
-    private double longitude;
+    private Double latitude;
+    private Double longitude;
 
 
-    public Usuario(String nome, String email, String telefone, LocalDate data, String bio, double latitude, double longitude) {
+    public Usuario(String nome, String email, String telefone, LocalDate data, String bio, Double latitude, Double longitude) {
         this.nome = nome;
         this.email = email;
         this.telefone = telefone;
