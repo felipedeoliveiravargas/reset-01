@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 
 public class CalculoDeDano {
-    ArrayList<>
-
+   
 
     public void AtacarGrupo(AtributosPersonagem atacante, ArrayList<AtributosPersonagem>  alvos) {
         for(AtributosPersonagem alvo : alvos){
